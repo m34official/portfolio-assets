@@ -1,4 +1,5 @@
-// Interactive Chat Widget for n8n
+<script > 
+    // Interactive Chat Widget for n8n
 (function() {
     // Initialize widget only once
     if (window.N8nChatWidgetLoaded) return;
@@ -980,4 +981,7 @@
             chatWindow.classList.remove('visible');
         });
     });
+
 })();
+
+</script>
