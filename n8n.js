@@ -1,5 +1,3 @@
-<script > 
-    // Interactive Chat Widget for n8n
 (function() {
     // Initialize widget only once
     if (window.N8nChatWidgetLoaded) return;
@@ -983,5 +981,3 @@
     });
 
 })();
-
-</script>
